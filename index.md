@@ -51,7 +51,7 @@ I am a school student. I love to code during my offtime and I want to contribute
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
 <p align="left">
-    <a href="https://github.com/abindent/abindent"><img alt="abindent's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abindent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/abindent/abindent"><img alt="abindent's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=abindent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/abindent/abindent"><img alt="abindent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abindent&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -70,21 +70,18 @@ I am a school student. I love to code during my offtime and I want to contribute
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
-### You can find in me in the web 🌍
+## You can find in me in the web 🌍
 [<img align="left" alt="Abindent" src="https://img.shields.io/website?up_color=green&up_message=servicable&down_color=lightgrey&down_message=offline&label=OFFICIAL%20WEBSITE&style=for-the-badge&url=https%3A%2F%2Fosourcegames.firebaseapp.com" />][website]
-[<img align="left" alt="Abindent | Discord" src="https://img.shields.io/discord/932264473408966656?style=for-the-badge&logo=discord" />][discord]
+[<img align="left" alt="Abindent | Discord" src="https://img.shields.io/discord/932264473408966656?style=for-the-badge&logo=discord"/>][discord]
 [<img align="left" alt="Abindent | Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />][reddit]
 [<img align="left" alt="Abindent | LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Abindent | Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-<br />
-
 ---
-
 ## 📕 Top projects 
 <p aign="left">
   <a href="https://github.com/abindent/Nextcord-Utility-Bot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=Nextcord-Utility-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
