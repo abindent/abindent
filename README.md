@@ -15,7 +15,7 @@ I am a school student. I love to code during my offtime and I want to contribute
  💬 Help me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://komarev.com/ghpvc/?username=abindent)  <img src="https://img.shields.io/github/followers/Abindent?style=social" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=abindent)  <img src="https://img.shields.io/github/followers/abindent?style=social" style=" float:left, margin-right:10px" />
 
 
 ---
