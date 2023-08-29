@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1m6g7nc_snaJkT33Z8y-zYpUiuvYwkcl6/view?usp=sharing" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://res.cloudinary.com/opensourcegames/image/upload/v1693335239/Github_Profile/Gthub_Profile_Card_iueyq0.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a school student. I love to code during my offtime and I want to contribute something to help others. I am trying improve my coding skills.I have slightly improved myself. :wink:
