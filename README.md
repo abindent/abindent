@@ -14,10 +14,10 @@ Javascript, HTML, CSS, Python...
 
 ## 🔗 Links
 
-[<img align="left" alt="Abindent | Discord" src="https://img.shields.io/discord/932264473408966656?style=for-the-badge&logo=discord"/>]
-[<img align="left" alt="Abindent | Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />]
-[<img align="left" alt="Abindent | LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />]
-[<img align="left" alt="Abindent | Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />]
+<img align="left" alt="Abindent | Discord" src="https://img.shields.io/discord/932264473408966656?style=for-the-badge&logo=discord"/>
+<img align="left" alt="Abindent | Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />
+<img align="left" alt="Abindent | LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img align="left" alt="Abindent | Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 
 ## 🆕 Latest Big Project 
