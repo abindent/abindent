@@ -19,6 +19,7 @@ Javascript, HTML, CSS, Python...
 <img align="left" alt="Abindent | LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img align="left" alt="Abindent | Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
+---
 
 ## 🆕 Latest Big Project 
 
