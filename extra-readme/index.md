@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abindent/abindent/main/extra-readme/Gthub%20Profile%20Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://res.cloudinary.com/opensourcegames/image/upload/v1693335239/Github_Profile/Gthub_Profile_Card_iueyq0.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a school student. I love to code during my offtime and I want to contribute something to help others. I am trying improve my coding skills.I have slightly improved myself. :wink:
@@ -15,7 +15,7 @@ I am a school student. I love to code during my offtime and I want to contribute
  💬 Help me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/abindent)  <img src="https://img.shields.io/github/followers/abindent?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=abindent)  <img src="https://img.shields.io/github/followers/abindent?style=social" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -70,7 +70,8 @@ I am a school student. I love to code during my offtime and I want to contribute
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 ---
 
