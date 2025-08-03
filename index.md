@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abindent/abindent/main/Gthub%20Profile%20Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://res.cloudinary.com/opensourcegames/image/upload/v1693335239/Github_Profile/Gthub_Profile_Card_iueyq0.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a school student. I love to code during my offtime and I want to contribute something to help others. I am trying improve my coding skills.I have slightly improved myself. :wink:
@@ -15,7 +15,7 @@ I am a school student. I love to code during my offtime and I want to contribute
  💬 Help me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/abindent)  <img src="https://img.shields.io/github/followers/abindent?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=abindent)  <img src="https://img.shields.io/github/followers/abindent?style=social" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -51,7 +51,7 @@ I am a school student. I love to code during my offtime and I want to contribute
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
 <p align="left">
-    <a href="https://github.com/abindent/abindent"><img alt="abindent's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=abindent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/abindent/abindent"><img alt="abindent's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abindent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/abindent/abindent"><img alt="abindent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abindent&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -64,24 +64,26 @@ I am a school student. I love to code during my offtime and I want to contribute
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/abindent/abindent/blob/main/README.md">
-    <img alt="abindent's streak" src="https://streak-stats.demolab.com/?user=abindent&theme=monokai-metallian&hide_border=true"/>
+    <img alt="abindent's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abindent&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 ---
 
-## You can find in me in the web 🌍
-[<img align="left" alt="Abindent" src="https://img.shields.io/website?up_color=green&up_message=servicable&down_color=lightgrey&down_message=offline&label=OFFICIAL%20WEBSITE&style=for-the-badge&url=https%3A%2F%2Fosourcegames.firebaseapp.com" />][website]
-[<img align="left" alt="Abindent | Discord" src="https://img.shields.io/discord/932264473408966656?style=for-the-badge&logo=discord"/>][discord]
+### You can find in me in the web 🌍
+[<img align="left" alt="Abindent" src="https://img.shields.io/website?color=green&down_color=lightgrey&down_message=offline&label=OFFICIAL%20WEBSITE&style=for-the-badge&up_color=green&up_message=servicable&url=https%3A%2F%2Fosourcegames.firebaseapp.com" />][website]
+[<img align="left" alt="Abindent | Discord" src="https://img.shields.io/discord/843750265554206740?style=for-the-badge&logo=discord" />][discord]
 [<img align="left" alt="Abindent | Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />][reddit]
 [<img align="left" alt="Abindent | LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Abindent | Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-
+<br/>
 ---
+
 ## 📕 Top projects 
 <p aign="left">
   <a href="https://github.com/abindent/Nextcord-Utility-Bot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=Nextcord-Utility-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
