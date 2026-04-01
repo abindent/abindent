@@ -1,107 +1,135 @@
-### Hey Sinchan here 👋
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║          hey, I'm  A B I N D E N T  👾                   ║
+║          builder · breaker · curious mind                 ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+the+Making;Open+Source+Enthusiast;Cloud+Explorer;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://res.cloudinary.com/opensourcegames/image/upload/v1693335239/Github_Profile/Gthub_Profile_Card_iueyq0.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+## `$ whoami`
 
-I am a school student. I love to code during my offtime and I want to contribute something to help others. I am trying improve my coding skills.I have slightly improved myself. :wink:
- 
- 🔭 I’m working on the Project **ONoteBook: A Service to save notes over cloud**.
- 
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social"> 
- 
- 💬 Help me about Full Stack Development, Cloud, and any Tech-related stuff.
+```yaml
+name        : Abindent
+status      : Developer — between chapters, writing the next one
+focus       : Full Stack • Cloud • Open Source
+currently   : Building ONoteBook  |  Deep-diving into C++
+philosophy  : "Ship it. Learn. Repeat."
+```
 
-
-![Profile views](https://komarev.com/ghpvc/?username=abindent)  <img src="https://img.shields.io/github/followers/abindent?style=social" style=" float:left, margin-right:10px" />
-
+> I build things that (hopefully) don't break — and when they do, I learn why.  
+> Open source is my love language. If my code helped you, leave a ⭐
 
 ---
 
+## `$ ls ./tech-stack`
 
-### Tech & Tools Preference
+**Frontend**
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-### Other Languages I know
-<img src="http://img.shields.io/badge/-JavaScript-F89820?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+**Backend & Database**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white)
 
-## 📊 Github stats
+**Currently Learning**
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-<p align="left">
-    <a href="https://github.com/abindent/abindent"><img alt="abindent's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=abindent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/abindent/abindent"><img alt="abindent's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abindent&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
-## 🔥 Streak stats
+**Tooling**
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/abindent/abindent/blob/main/README.md">
-    <img alt="abindent's streak" src="https://github-readme-streak-stats-henna-omega.vercel.app?user=abindent&theme=dark"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/abindent/abindent"><img alt="Abindent's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abindent&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## You can find in me in the web 🌍
-[<img align="left" alt="Abindent" src="https://img.shields.io/website?up_color=green&up_message=servicable&down_color=lightgrey&down_message=offline&label=OFFICIAL%20WEBSITE&style=for-the-badge&url=https%3A%2F%2Fosourcegames.firebaseapp.com" />][website]
-[<img align="left" alt="Abindent | Discord" src="https://img.shields.io/discord/932264473408966656?style=for-the-badge&logo=discord"/>][discord]
-[<img align="left" alt="Abindent | Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit" />][reddit]
-[<img align="left" alt="Abindent | LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Abindent | Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+## `$ cat ./projects`
 
+<div align="center">
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| 🗒️ **[ONoteBook](https://github.com/abindent/ONoteBook)** | Save & sync notes over the cloud | MERN + Firebase |
+| 🤖 **[Nextcord Utility Bot](https://github.com/abindent/Nextcord-Utility-Bot)** | Feature-rich Discord bot | Python + Nextcord |
+| 📝 **[TextAnalyser](https://github.com/abindent/textanalyser)** | Analyse and transform text | React |
+| 🔬 **[TextAnalysis Tool](https://github.com/abindent/textanalysis-tool)** | Advanced text processing | JavaScript |
+| 📦 **[AdvanceSource](https://github.com/abindent/advancesource)** | Open source utility library | JS / Node |
 
-## 📕 Top projects 
-<p aign="left">
-  <a href="https://github.com/abindent/Nextcord-Utility-Bot"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=Nextcord-Utility-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
-  <a href="https://github.com/abindent/textanalyser"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=textanalyser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
-  <a href="https://github.com/abindent/ONoteBook"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=ONoteBook&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
-  <a href="https://github.com/abindent/textanalysis-tool"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=textanalysis-tool&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
-<a href="https://github.com/abindent/advancesource"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=abindent&repo=advancesource&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false%22%20alt=%22github-readme-streak-stats" /></a>
-</p>
+</div>
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+## `$ git log --stat`
 
-**Check the Repositories and don't forget to give a star.** 👇
+<div align="center">
 
-:star: From [Abindent](https://github.com/abindent)
+<a href="https://github.com/abindent">
+  <img height="180em" src="https://github-readme-stats-eosin-psi-94.vercel.app/api?username=abindent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-eosin-psi-94.vercel.app//api/top-langs/?username=abindent&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=c9d1d9&hide=Jupyter%20Notebook"/>
+</a>
 
-[website]: https://osourcegames.firebaseapp.com
-[reddit]: https://www.reddit.com/r/OpenSourceGame/
-[discord]: https://discord.io/OpenSourceGames
-[instagram]: https://www.instagram.com/itz_abindent_xtreme/
-[linkedin]: https://www.linkedin.com/in/sinchan-maitra-22a303217/
+<br/>
+
+<a href="https://github.com/abindent">
+  <img src="https://github-readme-streak-stats-henna-omega.vercel.app?user=abindent&theme=dark&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/abindent">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=abindent&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+## `$ curl --social`
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Website-online-brightgreen?style=for-the-badge)](https://osourcegames.firebaseapp.com)
+[![Discord](https://img.shields.io/discord/932264473408966656?style=for-the-badge&logo=discord&label=Discord)](https://discord.io/OpenSourceGames)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit&label=Reddit)](https://www.reddit.com/r/OpenSourceGame/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchan-maitra-22a303217/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_abindent_xtreme/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  Thanks for stopping by.                    │
+│  Explore the repos — and if something       │
+│  helped you, a ⭐ means the world. 🚀        │
+└─────────────────────────────────────────────┘
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=abindent&color=F85D7F&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/abindent?style=flat-square&color=F8D866&label=FOLLOWERS)
+
+</div>
