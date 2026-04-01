@@ -84,8 +84,8 @@ philosophy  : "Ship it. Learn. Repeat."
 <div align="center">
 
 <a href="https://github.com/abindent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abindent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abindent&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=c9d1d9&hide=Jupyter%20Notebook"/>
+  <img height="180em" src="https://github-readme-stats-eosin-psi-94.vercel.app/api?username=abindent&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-eosin-psi-94.vercel.app//api/top-langs/?username=abindent&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=c9d1d9&hide=Jupyter%20Notebook"/>
 </a>
 
 <br/>
