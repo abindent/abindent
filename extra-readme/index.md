@@ -71,9 +71,8 @@ philosophy  : "Ship it. Learn. Repeat."
 |---|---|---|
 | 🗒️ **[ONoteBook](https://github.com/abindent/ONoteBook)** | Save & sync notes over the cloud | MERN + Firebase |
 | 🤖 **[Nextcord Utility Bot](https://github.com/abindent/Nextcord-Utility-Bot)** | Feature-rich Discord bot | Python + Nextcord |
-| 📝 **[TextAnalyser](https://github.com/abindent/textanalyser)** | Analyse and transform text | React |
-| 🔬 **[TextAnalysis Tool](https://github.com/abindent/textanalysis-tool)** | Advanced text processing | JavaScript |
-| 📦 **[AdvanceSource](https://github.com/abindent/advancesource)** | Open source utility library | JS / Node |
+| 📝 **[TextAnalyser](https://github.com/abindent/textanalyser)** | Analyse and transform text | NextJS |
+| 🔬 **[TextAnalysis Tool](https://github.com/abindent/textanalysis-tool)** | Advanced text processing | TypeScript |
 
 </div>
 
