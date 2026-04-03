@@ -180,8 +180,8 @@ Analyse, summarise, and transform text intelligently in the browser.
 <br/><br/>
 
 <!-- TROPHIES -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=abindent&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<a href="https://github.com/ayushraistudio/github-contribution-showcase">
+  <img width="95%" src="https://personal-trophy.vercel.app/api?username=abindent&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </a>
 
 </div>
