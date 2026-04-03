@@ -73,6 +73,7 @@ philosophy  : "Ship it. Learn. Repeat."
 | 🤖 **[Nextcord Utility Bot](https://github.com/abindent/Nextcord-Utility-Bot)** | Feature-rich Discord bot | Python + Nextcord |
 | 📝 **[TextAnalyser](https://github.com/abindent/textanalyser)** | Analyse and transform text | NextJS |
 | 🔬 **[TextAnalysis Tool](https://github.com/abindent/textanalysis-tool)** | Advanced text processing | TypeScript |
+| 📦 **[AdvanceSource](https://github.com/abindent/advancesource)** | Open source utility library | JS / Node |
 
 </div>
 
