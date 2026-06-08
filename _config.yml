@@ -1,1 +1,37 @@
-theme: jekyll-theme-merlot
+# Jekyll configuration for abindent's GitHub Pages site
+
+theme: jekyll-theme-midnight
+
+# Site metadata
+title: "abindent · Sinchan Maitra"
+description: "builder · breaker · curious mind — Full Stack · Cloud · Open Source"
+url: "https://abindent.github.io"
+
+# Author info
+author:
+  name: "Sinchan Maitra"
+  github: abindent
+  linkedin: "opensourcecodes"
+  instagram: "itz_abindent_xtreme"
+  reddit: "OpenSourceGame"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - "*.yml"
+  - "FUNDING.yml"
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
