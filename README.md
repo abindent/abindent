@@ -12,7 +12,7 @@
 [![Website](https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=F85D7F&labelColor=0D1117)](https://osourcegames.firebaseapp.com)
 [![Discord](https://img.shields.io/discord/932264473408966656?style=for-the-badge&logo=discord&label=Discord&labelColor=0D1117&color=F85D7F)](https://discord.gg/n3q3HYMnkV)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/OpenSourceGame?style=for-the-badge&logo=reddit&label=Reddit&labelColor=0D1117&color=F85D7F)](https://www.reddit.com/r/OpenSourceGame/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F85D7F&labelColor=0D1117)](https://www.linkedin.com/in/sinchan-maitra-22a303217/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F85D7F&labelColor=0D1117)](https://www.linkedin.com/in/opensourcecodes/)
 [![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F85D7F&labelColor=0D1117)](https://www.instagram.com/itz_abindent_xtreme/)
 
 <br/>
