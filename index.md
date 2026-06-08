@@ -100,54 +100,34 @@ title: abindent · Sinchan Maitra
 <table>
 <tr>
 <td width="50%">
-
-### 🗒️ ONoteBook
-> *Save & sync your notes — wherever you are*
-
-Cloud-first note-taking service. Designed for speed, built for reliability.
-
-**Stack →** `MongoDB` `Express` `React` `Node.js` `Firebase`
-
-[![Repo](https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white)](https://github.com/abindent/ONoteBook)
-
+<h3>🗒️ ONoteBook</h3>
+<blockquote><em>Save &amp; sync your notes — wherever you are</em></blockquote>
+<p>Cloud-first note-taking service. Designed for speed, built for reliability.</p>
+<p><strong>Stack →</strong> <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code> <code>Firebase</code></p>
+<a href="https://github.com/abindent/ONoteBook"><img src="https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
 </td>
 <td width="50%">
-
-### 🤖 Nextcord Utility Bot
-> *Your Discord server's new best friend*
-
-Feature-packed utility bot with moderation, fun, and productivity commands.
-
-**Stack →** `Python` `Nextcord`
-
-[![Repo](https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white)](https://github.com/abindent/Nextcord-Utility-Bot)
-
+<h3>🤖 Nextcord Utility Bot</h3>
+<blockquote><em>Your Discord server's new best friend</em></blockquote>
+<p>Feature-packed utility bot with moderation, fun, and productivity commands.</p>
+<p><strong>Stack →</strong> <code>Python</code> <code>Nextcord</code></p>
+<a href="https://github.com/abindent/Nextcord-Utility-Bot"><img src="https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-### 📝 TextAnalyser
-> *Words, dissected.*
-
-Analyse, summarise, and transform text intelligently in the browser.
-
-**Stack →** `Next.js` `React`
-
-[![Repo](https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white)](https://github.com/abindent/textanalyser)
-
+<h3>📝 TextAnalyser</h3>
+<blockquote><em>Words, dissected.</em></blockquote>
+<p>Analyse, summarise, and transform text intelligently in the browser.</p>
+<p><strong>Stack →</strong> <code>Next.js</code> <code>React</code></p>
+<a href="https://github.com/abindent/textanalyser"><img src="https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
 </td>
 <td width="50%">
-
-### 🔬 TextAnalysis Tool
-> *Open tools for open builders*
-
-A lightning-fast TypeScript library for text analysis and manipulation — from simple cleanup to deep linguistic insights.
-
-**Stack →** `TypeScript` `Node.js`
-
-[![Repo](https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white)](https://github.com/abindent/textanalysis-tool)
-
+<h3>🔬 TextAnalysis Tool</h3>
+<blockquote><em>Open tools for open builders</em></blockquote>
+<p>A lightning-fast TypeScript library for text analysis and manipulation — from simple cleanup to deep linguistic insights.</p>
+<p><strong>Stack →</strong> <code>TypeScript</code> <code>Node.js</code></p>
+<a href="https://github.com/abindent/textanalysis-tool"><img src="https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
 </td>
 </tr>
 </table>
