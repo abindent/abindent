@@ -115,7 +115,7 @@ Feature-packed utility bot with moderation, fun, and productivity commands.
 
 **Stack →** `Python` `discord.py`
 
-[![Repo](https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white)](https://github.com/abindent/Nextcord-Utility-Bot)
+[![Repo](https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white)](https://github.com/abindent/Python-Utility-Bot)
 
 </td>
 </tr>
