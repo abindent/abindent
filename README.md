@@ -108,12 +108,12 @@ Cloud-first note-taking service. Designed for speed, built for reliability.
 </td>
 <td width="50%">
 
-### 🤖 Nextcord Utility Bot
+### 🤖 Python Utility Bot
 > *Your Discord server's new best friend*
 
 Feature-packed utility bot with moderation, fun, and productivity commands.
 
-**Stack →** `Python` `Nextcord`
+**Stack →** `Python` `discord.py`
 
 [![Repo](https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white)](https://github.com/abindent/Nextcord-Utility-Bot)
 
