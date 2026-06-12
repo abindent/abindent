@@ -107,11 +107,11 @@ title: abindent · Sinchan Maitra
 <a href="https://github.com/abindent/ONoteBook"><img src="https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
 </td>
 <td width="50%">
-<h3>🤖 Nextcord Utility Bot</h3>
+<h3>🤖 Python Utility Bot</h3>
 <blockquote><em>Your Discord server's new best friend</em></blockquote>
 <p>Feature-packed utility bot with moderation, fun, and productivity commands.</p>
-<p><strong>Stack →</strong> <code>Python</code> <code>Nextcord</code></p>
-<a href="https://github.com/abindent/Nextcord-Utility-Bot"><img src="https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
+<p><strong>Stack →</strong> <code>Python</code> <code>discord.py</code></p>
+<a href="https://github.com/abindent/Python-Utility-Bot"><img src="https://img.shields.io/badge/View_Repo-F85D7F?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
 </td>
 </tr>
 <tr>
