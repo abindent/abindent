@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- HEADER CAPSULE -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=OpenSourceGames&fontSize=62&color=0:0D1117,100:0D1117&stroke=F85D7F&strokeWidth=2&fontColor=F85D7F&animation=fadeIn&fontAlignY=55&desc=Free%20HTML%20%C2%B7%20CSS%20%C2%B7%20JavaScript%20Games&descSize=18&descAlignY=75&descAlign=50&descColor=F8D866" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=OpenSourceCodes&fontSize=62&color=0:0D1117,100:0D1117&stroke=F85D7F&strokeWidth=2&fontColor=F85D7F&animation=fadeIn&fontAlignY=55&desc=Free%20%C2%B7%20Quality%20%C2%B7%20Open%20Source%20Projects&descSize=18&descAlignY=75&descAlign=50&descColor=F8D866" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=F85D7F&center=true&vCenter=true&width=620&lines=Free+Open+Source+HTML+%2F+CSS+%2F+JS+Games+%F0%9F%8E%AE;Guides+%C2%B7+News+%C2%B7+Latest+Releases;Built+by+gamers%2C+for+gamers.;Visit+us+%E2%86%92+osourcegames.firebaseapp.com)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=F85D7F&center=true&vCenter=true&width=620&lines=Free+Open+Source+Tools+%2F+Templates+%2F+Code+%F0%9F%93%9D;Democratizing+Tech+%C2%B7+Accessible+Resources;Built+for+the+developer+community.;Visit+us+%E2%86%92+otsersto.infinityfreeapp.com)](https://git.io/typing-svg)
 <br/>
 
 <!-- SOCIAL BADGES -->
@@ -30,21 +29,21 @@
 ```yaml
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   name        :  OpenSourceGames                             ║
-║   type        :  Free HTML · CSS · JavaScript Games          ║
-║   mission     :  Making gaming accessible — one repo at      ║
-║                  a time                                      ║
-║   content     :  Games · News · Guides · Releases            ║
+║   name        :  OpenSourceCodes                             ║
+║   type        :  Free Open-Source Tools & Coding Resources   ║
+║   mission     :  Democratizing tech through community-driven ║
+║                  development and accessible engineering      ║
+║   content     :  Code · Projects · Guides · Tools            ║
 ║   audience    :  Novices & professionals alike               ║
-║   support     :  One-on-one · Articles · Videos              ║
+║   support     :  One-on-one · Articles · Documentation       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-> *"As a team of passionate gaming enthusiasts, OpenSource is dedicated*  
-> *to celebrating and enhancing your gaming experience."*
+> *"As a team of passionate developers, OpenSourceCodes is dedicated*  
+> *to democratizing technology and enhancing your development experience."*
 
 </div>
 
